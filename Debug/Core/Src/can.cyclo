@@ -1,0 +1,15 @@
+../Core/Src/can.c:29:13:CAN1_ConfigurePins	1
+../Core/Src/can.c:14:16:CAN1_WaitForMcrState	4
+../Core/Src/can.c:136:9:CAN1_SendExtended	12
+../Core/Src/can.c:190:9:CAN1_Read	3
+../Core/Src/can.c:205:9:CAN1_IsInitialized	1
+../Core/Src/can.c:210:13:CAN1_GetStateName	5
+../Core/Src/can.c:235:9:CAN1_GetTEC	1
+../Core/Src/can.c:240:9:CAN1_GetREC	1
+../Core/Src/can.c:245:9:CAN1_GetLastErrorCode	1
+../Core/Src/can.c:250:6:CAN1_GetStatistics	2
+../Core/Src/can.c:258:6:CAN1_ClearStatistics	1
+../Core/Src/can.c:67:9:CAN1_Init	4
+../Core/Src/can.c:263:6:CAN1_TxIRQHandler	8
+../Core/Src/can.c:293:6:CAN1_Rx0IRQHandler	7
+../Core/Src/can.c:343:6:CAN1_SceIRQHandler	1

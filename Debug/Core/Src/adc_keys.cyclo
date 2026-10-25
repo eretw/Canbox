@@ -1,0 +1,9 @@
+../Core/Src/adc_keys.c:16:17:ADC_Keys_ReadChannel	4
+../Core/Src/adc_keys.c:37:17:ADC_Keys_ReadAverage	3
+../Core/Src/adc_keys.c:54:16:ADC_Keys_GetLevel	6
+../Core/Src/adc_keys.c:79:15:ADC_Keys_Map	4
+../Core/Src/adc_keys.c:152:6:ADC_Keys_SampleTask	6
+../Core/Src/adc_keys.c:95:9:ADC_Keys_Init	8
+../Core/Src/adc_keys.c:182:8:ADC_Keys_GetRaw	1
+../Core/Src/adc_keys.c:187:10:ADC_Keys_GetAdc	2
+../Core/Src/adc_keys.c:196:13:ADC_Keys_GetName	2

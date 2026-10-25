@@ -1,0 +1,11 @@
+../Core/Src/lcd12864.c:16:13:LCD12864_ShortDelay	8	static,ignoring_inline_asm
+../Core/Src/lcd12864.c:27:13:LCD12864_SendSerialByte	16	static
+../Core/Src/lcd12864.c:43:13:LCD12864_WriteRaw	16	static
+../Core/Src/lcd12864.c:59:13:LCD12864_WriteCommand	8	static
+../Core/Src/lcd12864.c:64:13:LCD12864_WriteData	8	static
+../Core/Src/lcd12864.c:69:13:LCD12864_RefreshRow	16	static
+../Core/Src/lcd12864.c:85:9:LCD12864_Init	40	static
+../Core/Src/lcd12864.c:121:6:LCD12864_Clear	8	static
+../Core/Src/lcd12864.c:131:6:lcd12864_display	16	static
+../Core/Src/lcd12864.c:161:6:LCD12864_WriteLine	16	static
+../Core/Src/lcd12864.c:181:6:LCD12864_TestPattern	8	static

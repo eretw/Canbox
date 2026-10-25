@@ -1,0 +1,11 @@
+../Core/Src/dbc_codec.c:33:9:DBC_SetIntelSignal	12	static
+../Core/Src/dbc_codec.c:61:9:DBC_GetIntelSignal	16	static
+../Core/Src/dbc_codec.c:85:12:DBC_EncodeCanBoxPacket	16	static
+../Core/Src/dbc_codec.c:119:12:DBC_DecodePcFrame	32	static
+../Core/Src/dbc_codec.c:164:9:DBC_Packet1Checksum	0	static
+../Core/Src/dbc_codec.c:180:6:DBC_Packet1ReceiverInit	8	static
+../Core/Src/dbc_codec.c:188:12:DBC_Packet1Push	24	static
+../Core/Src/dbc_codec.c:258:13:DBC_StatusName	0	static
+../Core/Src/dbc_codec.c:272:13:DBC_PcSignalName	0	static
+../Core/Src/dbc_codec.c:281:13:DBC_CanBoxSignalName	0	static
+../Core/Src/dbc_codec.c:291:6:DBC_RunSelfTest	368	static

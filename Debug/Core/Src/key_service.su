@@ -1,0 +1,6 @@
+../Core/Src/key_service.c:15:13:KeyService_PushEvent	8	static
+../Core/Src/key_service.c:32:6:KeyService_Init	0	static
+../Core/Src/key_service.c:42:6:KeyService_Task	8	static
+../Core/Src/key_service.c:78:9:KeyService_GetEvent	0	static
+../Core/Src/key_service.c:90:8:KeyService_GetStableKey	0	static
+../Core/Src/key_service.c:95:10:KeyService_GetPressedDuration	0	static

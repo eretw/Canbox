@@ -1,0 +1,8 @@
+../Core/Src/usart.c:38:6:MX_UART4_Init	2
+../Core/Src/usart.c:66:6:HAL_UART_MspInit	2
+../Core/Src/usart.c:102:6:HAL_UART_MspDeInit	2
+../Core/Src/usart.c:129:6:UART4_StartReceive	1
+../Core/Src/usart.c:137:9:UART4_ReadByte	3
+../Core/Src/usart.c:149:10:UART4_GetRxOverflowCount	1
+../Core/Src/usart.c:154:6:HAL_UART_RxCpltCallback	3
+../Core/Src/usart.c:177:6:HAL_UART_ErrorCallback	2

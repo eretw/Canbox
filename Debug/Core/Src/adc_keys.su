@@ -1,0 +1,9 @@
+../Core/Src/adc_keys.c:16:17:ADC_Keys_ReadChannel	0	static
+../Core/Src/adc_keys.c:37:17:ADC_Keys_ReadAverage	16	static
+../Core/Src/adc_keys.c:54:16:ADC_Keys_GetLevel	0	static
+../Core/Src/adc_keys.c:79:15:ADC_Keys_Map	0	static
+../Core/Src/adc_keys.c:152:6:ADC_Keys_SampleTask	16	static
+../Core/Src/adc_keys.c:95:9:ADC_Keys_Init	32	static,ignoring_inline_asm
+../Core/Src/adc_keys.c:182:8:ADC_Keys_GetRaw	0	static
+../Core/Src/adc_keys.c:187:10:ADC_Keys_GetAdc	0	static
+../Core/Src/adc_keys.c:196:13:ADC_Keys_GetName	0	static
